@@ -11,7 +11,7 @@ Namma Yatri operates in a fast changing urban transport environment where demand
 The dataset contains multiple tables related to trips, payments, locations, and time periods in Bengaluru. It includes information on trip requests, completed rides, cancellations, revenue, payment methods, and geographic zones. The data is cleaned, joined, and prepared before analysis to ensure accuracy.
 
 **What I Did in This Project** - 
-I performed end to end data analysis starting from data preparation to insight generation. I joined multiple tables, resolved data quality issues, and classified variables into numerical and categorical types. I conducted exploratory data analysis to identify peak demand hours, high revenue zones, popular payment methods, and cancellation trends. I analysed relationships between time, location, revenue, and trip success rates. I also created parameters and interactive filters to support dynamic analysis in dashboards.
+I performed end to end data analysis starting from data preparation to insight generation. I joined multiple tables, resolved data quality issues, and classified variables into numerical and categorical types. I conducted exploratory data analysis to identify peak demand hours, high revenue zones, popular payment methods, and cancellation trends. I analysed relationships between time, location, revenue, and trip success rates.
 
 **Key Insights** - 
 The analysis identified peak demand time periods that contribute the most to revenue. High performing zones were recognised based on trip volume and earnings. Certain payment methods were found to be more popular and reliable. Cancellation patterns showed clear differences between driver and customer behaviour. The likelihood of trip completion after quote search varied significantly by time of day.
@@ -24,7 +24,7 @@ Data cleaning and preparation
 Exploratory data analysis
 Dashboard creation and data storytelling
 Business insight generation
-Tableau or Power BI
+Power BI
 Analytical thinking and problem solving
 
 **Deliverables** - 
